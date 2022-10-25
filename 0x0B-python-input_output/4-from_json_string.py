@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 ''' function that returns a python object represented by a JSON string
 '''
 
